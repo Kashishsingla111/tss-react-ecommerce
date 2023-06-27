@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { Product } from "../components"
 import axios from 'axios'
-
+// axios link is modified with render
 
 
 const Products = () => {
